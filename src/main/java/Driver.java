@@ -1,4 +1,4 @@
-// versi dari 1.0.0
+// versi dari 1.0.1
 import src.main.java.Counter;
 
 public class Driver {
